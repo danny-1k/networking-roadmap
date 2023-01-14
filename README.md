@@ -65,3 +65,8 @@ A not so very thorough roadmap to being "competent" in Networking.
 </details>
 
 </details>
+
+## Resources
+- https://www.guru99.com/data-communication-computer-network-tutorial.html
+- https://www.roppers.org/courses/networking
+- https://www.w3schools.com/cybersecurity/index.php
